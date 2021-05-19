@@ -27,7 +27,10 @@ let activeNote = {};
 
 const getNotes = () =>
   fetch('/api/notes', {
+    // phone number
     method: 'GET',
+    // areacode
+    // need both to communicate :) 
     headers: {
       'Content-Type': 'application/json',
     },
