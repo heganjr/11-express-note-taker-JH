@@ -8,7 +8,7 @@ Jacob Hegan UWA Full Stack Flex Bootcamp - February 2021
 
 [Heroku Link](https://floating-plateau-50769.herokuapp.com/)
 
-[Repository Link](https://github.com/heganjr/11-express-note-taker-JH)]
+[Repository Link](https://github.com/heganjr/11-express-note-taker-JH)
 
 ---
 
