@@ -4,6 +4,14 @@ Jacob Hegan UWA Full Stack Flex Bootcamp - February 2021
 
 [![MIT](https://img.shields.io/badge/licence-MIT-brightgreen)](https://choosealicense.com/licenses/mit/)
 
+---
+
+[Heroku Link](https://floating-plateau-50769.herokuapp.com/)
+
+[Repository Link](https://github.com/heganjr/11-express-note-taker-JH)]
+
+---
+
 ## Description
 
 ```
