@@ -64,9 +64,9 @@ Upon launching the application either at the Heroku link or on http://localhost:
 ### Screenshot
 ![npm-start](./images/npm-start.PNG)
 
-![index](./images/index.PNG)
+![index-img](./images/indeximg.PNG)
 
-![notes](./images/notes.PNG)
+![notes-img](./images/notesimg.PNG)
 
 ---
 
