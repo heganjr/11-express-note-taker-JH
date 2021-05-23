@@ -65,10 +65,10 @@ Upon launching the application either at the Heroku link or on http://localhost:
 ![npm-start](images/npm-start.PNG)
 
 
-![index](images/screenshot1.PNG)
+![index](images/screenshot1.png)
 
 
-![notes](images/screenshot2.PNG)
+![notes](images/screenshot2.png)
 
 
 ---
